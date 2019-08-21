@@ -1,7 +1,7 @@
 options:
   hide_event_toc: False
   hide_mlh_toc: False
-  min_resume_age: 17
+  min_resume_age: 19
 custom_fields:
  - name: linkedin_url
    label: 'LinkedIn URL'
